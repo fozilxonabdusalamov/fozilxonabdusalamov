@@ -1,13 +1,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# Hi 👋, I'm Fozilxon
+- <h1 align="start">Hi 👋, I'm Fozilxon</h1>
 - 👀 I’m interested in creating new products and overcoming challenges.
-- 🦾 I’m currently proficient in `HTML | CSS | JavaScript | React | Redux`.
-- 📫 How to reach me: **fozilxonabdusalamov2006@gmail.com**
+- 🦾 I’m currently an expert at `HTML|CSS|JavaScript|React|Redux`.
+- 📫 How to reach me (email): fozilxonabdusalamov2006@gmail.com
 
 ---
 
-## 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical" />
@@ -42,9 +42,10 @@
 
 ---
 
-## 🌐 Connect with Me:
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://t.me/fozilxon25x" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/>
   </a>
 </p>
+

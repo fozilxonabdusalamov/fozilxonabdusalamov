@@ -39,16 +39,6 @@
 
 ---
 
-## 📌 Open Source & Portfolio Loyihalar
-
-| Loyihalar | Tavsif |
-|----------|--------|
-| [📘 Portfolio Website](https://github.com/Fozilxon/my-portfolio) | Shaxsiy portfolio web-saytim (React + Tailwind) |
-| [🧮 Calculator App](https://github.com/Fozilxon/calculator-react) | React bilan qurilgan to‘liq calculator |
-| [📝 Notes App](https://github.com/Fozilxon/notes-app) | LocalStorage asosida ishlaydigan yozuvlar ilovasi |
-
----
-
 ## 🌐 Aloqa uchun
 
 <p align="center">

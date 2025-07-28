@@ -55,7 +55,7 @@
 
 ---
 
-## 🔥 Fun Qism
+## 🔥 Motivation
 
 ```bash
 💻 "Kodni kod deb bilgan — muammo emas, yechim o‘ylaydi"

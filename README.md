@@ -3,65 +3,69 @@
 
 # 👋 Assalomu alaykum! I'm Fozilxon Abdusalamov
 
-### 💻 Frontend Developer | JavaScript Enthusiast | React Lover
-
-- 🔭 Hozirda interaktiv va responsiv web ilovalar ustida ishlayapman.
-- 🧠 Fokusim: **React**, **Redux**, va **JavaScript** ekotizimi.
-- 🌱 Har kuni yangi narsalarni o‘rganishga intilaman.
-- 💬 `HTML`, `CSS`, `JavaScript`, `React`, `Redux` haqida bemalol so‘rashingiz mumkin.
-- 📫 Murojaat: **fozilxonabdusalamov2006@gmail.com**
-- 🧩 Fun fact: UI/UX dizaynni kodga aylantirishni yoqtiraman.
+### 💻 Frontend Developer | 🧠 JavaScript Enthusiast | ⚛️ React Lover
 
 ---
 
-## 🛠️ Texnologiyalar va Asboblar
+## 👨‍💻 Men haqimda qisqacha
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-</p>
+- 🔭 Hozirda **interaktiv** va **responsive** web ilovalar ustida ishlayapman.
+- 🚀 Fokus: **React**, **Redux**, va **JavaScript** asosidagi texnologiyalar.
+- 🎯 Har kuni yangi texnologiyalarni o‘rganishga intilaman.
+- 💬 So‘rashingiz mumkin: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`.
+- 📫 Email: **fozilxonabdusalamov2006@gmail.com**
+- 🧩 UI/UX dizaynlarni jonlantirish va kodga aylantirishdan zavqlanaman.
 
 ---
 
-## 📊 GitHub Statistikam
+## 🛠️ Texnologiyalar & Asboblar
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github,vscode" />
+</div>
+
+---
+
+## 📈 GitHub Statistikam
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical&hide_border=true" width="47%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=radical&hide_border=true" width="47%" alt="Top Languages" />
+</div>
+
+---
+
+## 📌 Open Source & Portfolio Loyihalar
+
+| Loyihalar | Tavsif |
+|----------|--------|
+| [📘 Portfolio Website](https://github.com/Fozilxon/my-portfolio) | Shaxsiy portfolio web-saytim (React + Tailwind) |
+| [🧮 Calculator App](https://github.com/Fozilxon/calculator-react) | React bilan qurilgan to‘liq calculator |
+| [📝 Notes App](https://github.com/Fozilxon/notes-app) | LocalStorage asosida ishlaydigan yozuvlar ilovasi |
+
+---
+
+## 🌐 Aloqa uchun
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Aloqa Qilish
-
-<p align="left">
   <a href="mailto:fozilxonabdusalamov2006@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/fozilxon25x" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fozilxon" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🔥 Fun Qism
+
+```bash
+💻 "Kodni kod deb bilgan — muammo emas, yechim o‘ylaydi"

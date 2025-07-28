@@ -43,10 +43,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" width="47%" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Fozilxon&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" /> </p>
 
 ---
 

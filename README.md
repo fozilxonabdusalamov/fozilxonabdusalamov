@@ -1,20 +1,20 @@
 <!-- Profile Animation -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 👋 Hello, I'm Fozilxon Abdusalamov
+# 👋 Hi there, I'm Fozilxon Abdusalamov
 
-### 💻 Frontend Developer | 🧠 JavaScript Enthusiast | ⚛️ React Lover
+### 💻 Frontend Developer | 🧠 JavaScript Enthusiast | ⚛️ React Aficionado
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **interactive** and **responsive** web applications.
-- 🚀 Focused on mastering **React**, **Redux**, and the broader **JavaScript ecosystem**.
-- 🌱 Passionate about learning modern technologies and sharpening my problem-solving skills.
-- 💬 Feel free to ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`.
-- 📫 Reach out via email: **fozilxonabdusalamov2006@gmail.com**
-- 🎨 I enjoy transforming UI/UX designs into clean and functional code.
+- 🔭 Crafting **interactive** and **responsive** web applications.
+- 🚀 Focused on mastering **React**, **Redux**, and the modern **JavaScript ecosystem**.
+- 🌱 Eager to learn new technologies and consistently improve problem-solving skills.
+- 💬 Talk to me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`.
+- 📫 Reach me at: **fozilxonabdusalamov2006@gmail.com**
+- 🎨 Passionate about transforming UI/UX designs into clean, functional code.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Contact
 
 <p align="center">
   <a href="mailto:fozilxonabdusalamov2006@gmail.com" target="_blank" rel="noreferrer">
@@ -57,7 +57,4 @@
 
 ## 🚀 Motivation
 
-```bash
-💻 "A real developer doesn't see problems, they see potential solutions."
-
-
+> 💻 **"Professional developers don’t just see problems—they see opportunities for solutions."**

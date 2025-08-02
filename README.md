@@ -1,27 +1,29 @@
 <!-- Profile Animation -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-# 👋 Hi there, I'm Fozilxon Abdusalamov
+# 👋 Hi, I'm Fozilxon Abdusalamov
 
-### 💻 Frontend Developer | 🧠 JavaScript Enthusiast | ⚛️ React Aficionado
+### 💻 Professional Web Developer | 🧠 JavaScript Enthusiast | ⚛️ React Specialist
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Crafting **interactive** and **responsive** web applications.
-- 🚀 Focused on mastering **React**, **Redux**, and the modern **JavaScript ecosystem**.
-- 🌱 Eager to learn new technologies and consistently improve problem-solving skills.
-- 💬 Talk to me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`.
-- 📫 Reach me at: **fozilxonabdusalamov2006@gmail.com**
-- 🎨 Passionate about transforming UI/UX designs into clean, functional code.
+- 🌟 Experienced in building **modern**, **responsive**, and **scalable** web applications.
+- 🛠️ Skilled in both frontend and basic backend technologies.
+- 🚀 Strong focus on **JavaScript**, **React**, **Redux**, and UI/UX best practices.
+- 📈 Committed to writing clean, maintainable code and following industry standards.
+- 🌱 Always learning new technologies & frameworks to stay ahead in the field.
+- 🗣️ Open for collaboration, knowledge sharing, and new opportunities.
+- 💬 You can ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Git`.
+- 📧 Contact: **fozilxonabdusalamov2006@gmail.com**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
 </div>
 
 ---
@@ -39,7 +41,7 @@
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:fozilxonabdusalamov2006@gmail.com" target="_blank" rel="noreferrer">
@@ -55,6 +57,6 @@
 
 ---
 
-## 🚀 Motivation
+## 🚀 My Motto
 
-> 💻 **"Professional developers don’t just see problems—they see opportunities for solutions."**
+> 💻 **"Professional developers turn challenges into solutions and ideas into reality."**

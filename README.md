@@ -10,12 +10,12 @@
 ## 👨‍💻 About Me
 
 - 🌟 Experienced in building **modern**, **responsive**, and **scalable** web applications.
-- 🛠️ Skilled in both frontend and basic backend technologies.
-- 🚀 Strong focus on **JavaScript**, **React**, **Redux**, and UI/UX best practices.
+- 🛠️ Skilled in both frontend and backend development, from UI/UX to APIs.
+- 🚀 Strong focus on **JavaScript**, **TypeScript**, **React**, **Redux**, and UI/UX best practices.
 - 📈 Committed to writing clean, maintainable code and following industry standards.
 - 🌱 Always learning new technologies & frameworks to stay ahead in the field.
 - 🗣️ Open for collaboration, knowledge sharing, and new opportunities.
-- 💬 You can ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Git`.
+- 💬 You can ask me about: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Redux`, `Node.js`, `Tailwind`, `Bootstrap`, `Git`.
 - 📧 Contact: **fozilxonabdusalamov2006@gmail.com**
 
 ---
@@ -23,7 +23,7 @@
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
 </div>
 
 ---
@@ -60,4 +60,3 @@
 ## 🚀 My Motto
 
 > 💻 **"Professional developers turn challenges into solutions and ideas into reality."**
-

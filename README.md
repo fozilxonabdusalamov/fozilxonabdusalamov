@@ -50,7 +50,7 @@
   <a href="https://t.me/fozilxon25x" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/Fozilxon" target="_blank" rel="noreferrer">
+  <a href="https://github.com/fozilxonabdusalamov" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

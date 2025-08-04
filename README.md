@@ -10,20 +10,20 @@
 ## 👨‍💻 About Me
 
 - 🌟 Experienced in building **modern**, **responsive**, and **scalable** web applications.
-- 🛠️ Skilled in both frontend and backend development, from UI/UX to APIs.
-- 🚀 Strong focus on **JavaScript**, **TypeScript**, **React**, **Redux**, and UI/UX best practices.
-- 📈 Committed to writing clean, maintainable code and following industry standards.
-- 🌱 Always learning new technologies & frameworks to stay ahead in the field.
-- 🗣️ Open for collaboration, knowledge sharing, and new opportunities.
-- 💬 You can ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind`, `Bootstrap`, `Git`.
-- 📧 Contact: **fozilxonabdusalamov2006@gmail.com**
+- 🛠️ Skilled in both frontend and backend development — from UI/UX to APIs.
+- 🚀 Strong focus on **JavaScript**, **TypeScript**, **React**, **Redux**, and **UI/UX best practices**.
+- 🧠 Passionate about writing clean, maintainable, and efficient code.
+- 🌱 Continuously learning new tools and technologies to stay ahead in the field.
+- 🤝 Open to collaboration, open-source contributions, and exciting job opportunities.
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind CSS`, `Bootstrap`, `Git`.
+- 📧 Email: **fozilxonabdusalamov2006@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
 </div>
 
 ---
@@ -31,12 +31,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical&hide_border=true" width="47%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=radical&hide_border=true" width="47%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=radical&hide_border=true" width="47%" />
 </div>
 
 ---

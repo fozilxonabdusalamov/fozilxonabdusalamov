@@ -22,9 +22,6 @@
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,git,github,vscode" alt="Skill Icons" />
-</div>
 
 ---
 

@@ -3,25 +3,30 @@
 
 # 👋 Hi, I'm Fozilxon Abdusalamov
 
-### 💻 Professional Web Developer | 🧠 JavaScript Enthusiast | ⚛️ React Specialist
+### 💻 Middle Web Developer | 🧠 JavaScript  | ⚛️ React 
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌟 Experienced in building **modern**, **responsive**, and **scalable** web applications.
-- 🛠️ Skilled in both frontend and backend development — from UI/UX to APIs.
-- 🚀 Strong focus on **JavaScript**, **TypeScript**, **React**, **Redux**, and **UI/UX best practices**.
-- 🧠 Passionate about writing clean, maintainable, and efficient code.
-- 🌱 Continuously learning new tools and technologies to stay ahead in the field.
-- 🤝 Open to collaboration, open-source contributions, and exciting job opportunities.
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind CSS`, `Bootstrap`, `Git`.
+- 🌟 Highly experienced in crafting **cutting-edge**, **responsive**, and **enterprise-level** web applications.
+- 🛠️ Proficient in end-to-end development — from intuitive UI/UX design to robust backend APIs.
+- 🚀 Advanced expertise in **JavaScript**, **TypeScript**, **React**, **Redux**, and **UI/UX architecture**.
+- 🧠 Dedicated to writing clean, scalable, and high-performance code that exceeds industry standards.
+- 🌱 Committed to continuous learning and adopting the latest technologies to deliver innovative solutions.
+- 🤝 Actively seeking collaboration on impactful projects, contributing to open-source, and exploring leadership opportunities.
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind CSS`, `Bootstrap`, `Git`, and scalable system design.
 - 📧 Email: **fozilxonabdusalamov2006@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SASS/SCSS
+- **Frontend:** React, Redux, Context API, Tailwind CSS, Bootstrap, Material-UI
+- **Tools & Practices:** Git, GitHub
+- **UI/UX:** Responsive Design, Accessibility (a11y), Figma
+- **Deployment:** Vercel, Netlify
 
 ---
 
@@ -56,4 +61,4 @@
 
 ## 🚀 My Motto
 
-> 💻 **"Professional developers turn challenges into solutions and ideas into reality."**
+> 💻 **"Middle developers turn challenges into scalable solutions and ideas into impactful products."**

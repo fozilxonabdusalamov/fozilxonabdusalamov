@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Fozilxon Abdusalamov
 
-### 💻 Middle Web Developer | 🧠 JavaScript  | ⚛️ React 
+### 💻  Web Developer | 🧠 JavaScript  | ⚛️ React 
 
 ---
 
@@ -61,4 +61,4 @@
 
 ## 🚀 My Motto
 
-> 💻 **"Middle developers turn challenges into scalable solutions and ideas into impactful products."**
+> 💻 **"Web developers turn challenges into scalable solutions and ideas into impactful products."**

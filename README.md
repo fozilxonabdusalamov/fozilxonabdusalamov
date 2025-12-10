@@ -46,6 +46,4 @@
 
 ---
 
-## 🚀 My Motto
-
 > 💻 **"Web developers turn challenges into scalable solutions and ideas into impactful products."**

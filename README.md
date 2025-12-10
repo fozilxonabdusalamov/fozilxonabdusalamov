@@ -30,19 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical&hide_border=true" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fozilxon&layout=compact&theme=radical&hide_border=true" width="47%" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">

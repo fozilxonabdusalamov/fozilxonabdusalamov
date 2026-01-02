@@ -51,15 +51,6 @@ I enjoy turning complex problems into clean, intuitive, and high-performance use
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fozilxonabdusalamov&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=fozilxonabdusalamov&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fozilxonabdusalamov&layout=compact&theme=dark)
-
-
----
-
 ## 📌 Currently
 
 - 🌱 Learning **advanced React & frontend architecture**

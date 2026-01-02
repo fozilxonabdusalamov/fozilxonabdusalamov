@@ -1,49 +1,100 @@
 <!-- Profile Animation -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Animation" width="420"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 # 👋 Hi, I'm Fozilxon Abdusalamov
 
-### 💻 Web Developer | 🧠 JavaScript | ⚛️ React
+### 🚀 Frontend Developer | JavaScript | React
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌟 Highly experienced in crafting **cutting-edge**, **responsive**, and **enterprise-level** web applications.  
-- 🛠️ Proficient in end-to-end development — from intuitive UI/UX design to robust backend APIs.  
-- 🚀 Advanced expertise in **JavaScript**, **TypeScript**, **React**, **Redux**, and **UI/UX architecture**.  
-- 🧠 Dedicated to writing clean, scalable, and high-performance code that exceeds industry standards.  
-- 🌱 Committed to continuous learning and adopting the latest technologies to deliver innovative solutions.  
-- 🤝 Actively seeking collaboration on impactful projects, contributing to open-source, and exploring leadership opportunities.  
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Tailwind CSS`, `Bootstrap`, `Git`, and scalable system design.  
-- 📧 Email: **fozilxonabdusalamov2006@gmail.com**
+I am a passionate **Frontend Developer** focused on building **modern**, **responsive**, and **scalable** web applications.  
+I enjoy turning complex problems into clean, intuitive, and high-performance user interfaces using the **React ecosystem**.
+
+- 💡 Clean & maintainable code  
+- ⚛️ Component-based architecture  
+- 🎨 Strong UI/UX sense  
+- 🚀 Performance & best practices  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🔧 What I Do
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3, SASS/SCSS  
-- **Frontend:** React, Redux, Context API, Tailwind CSS, Bootstrap, Material-UI  
-- **Tools & Practices:** Git, GitHub, REST APIs, Axios  
-- **UI/UX:** Responsive Design, Accessibility (a11y), Figma  
-- **Deployment:** Vercel, Netlify
+- 🌐 Responsive & cross-browser web apps  
+- ⚛️ Scalable React applications  
+- 🔄 State management with Redux & Context API  
+- 🎨 UI with Tailwind CSS, Bootstrap, Material UI  
+- 🚀 Performance optimization  
+- 🤝 Team collaboration & open-source  
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:fozilxonabdusalamov2006@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fozilxonabdusalamov&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozilxonabdusalamov&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozilxonabdusalamov&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Currently
+
+- 🌱 Learning **advanced React & frontend architecture**
+- 🚀 Building real-world projects
+- 🤝 Open to collaboration & junior/middle frontend roles
+
+---
+
+## 💬 Ask Me About
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Redux` · `Tailwind CSS` · `Git`
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:fozilxonabdusalamov2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/fozilxon25x" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/fozilxon25x">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/fozilxonabdusalamov" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/fozilxonabdusalamov">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> 💻 **"Web developers turn challenges into scalable solutions and ideas into impactful products."**
+> 💡 *"Great frontend is not just about code — it’s about experience."*

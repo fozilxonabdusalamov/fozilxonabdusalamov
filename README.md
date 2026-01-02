@@ -35,6 +35,7 @@ I enjoy turning complex problems into clean, intuitive, and high-performance use
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
@@ -43,6 +44,11 @@ I enjoy turning complex problems into clean, intuitive, and high-performance use
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+### 🐍 Python & Backend Basics
+- Python (core, scripting, automation)
+- REST API consumption
+- Basic backend logic & data handling
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)

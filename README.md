@@ -53,17 +53,10 @@ I enjoy turning complex problems into clean, intuitive, and high-performance use
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fozilxonabdusalamov&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fozilxonabdusalamov&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=fozilxonabdusalamov&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fozilxonabdusalamov&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fozilxonabdusalamov&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozilxonabdusalamov&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 

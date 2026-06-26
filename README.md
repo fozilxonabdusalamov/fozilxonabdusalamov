@@ -95,13 +95,13 @@ I am a passionate **Software Engineer** specializing in **full-stack web** and *
   <a href="mailto:fozilxonabdusalamov2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/fozilxonabdusalomov">
+  <a href="https://t.me/fozilxonabdusolomov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://instagram.com/fozilxonabdusalomov_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/fozilxonabdusalamov">
+  <a href="https://github.com/fozilxonabdusalomov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
